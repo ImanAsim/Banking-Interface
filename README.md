@@ -1,13 +1,18 @@
-# Banking-Interface
+## Getting Started
 
-Well this change might give you a little bit of a challenge.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-Since both you and I are updating the repository. the changes have to synchronized. Any change you try to push to the repository will give you a problem since i made a change before you.
+## Folder Structure
 
-It means you need to pull teh changes before you can commit and push your change.
+The workspace contains two folders by default, where:
 
-Learn about how to do that.
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-Second task is to create an issue and learn issue management.
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-I will create an issue to get things sarted. The idea with issues is to track the things you want to add to you applications. each issue will relate to some funtionality with some details on how the feature/functon work.
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+
+## Dependency Management
+
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
